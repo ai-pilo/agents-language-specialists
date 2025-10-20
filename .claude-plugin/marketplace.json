@@ -1,0 +1,34 @@
+{
+  "plugins": [
+    {
+      "name": "javascript-typescript",
+      "version": "1.2.2",
+      "path": "plugins/javascript-typescript"
+    },
+    {
+      "name": "python-development",
+      "version": "1.2.2",
+      "path": "plugins/python-development"
+    },
+    {
+      "name": "systems-programming",
+      "version": "1.2.2",
+      "path": "plugins/systems-programming"
+    },
+    {
+      "name": "jvm-languages",
+      "version": "1.2.2",
+      "path": "plugins/jvm-languages"
+    },
+    {
+      "name": "functional-programming",
+      "version": "1.2.2",
+      "path": "plugins/functional-programming"
+    },
+    {
+      "name": "web-scripting",
+      "version": "1.2.2",
+      "path": "plugins/web-scripting"
+    }
+  ]
+}
