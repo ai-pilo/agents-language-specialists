@@ -1,34 +1,36 @@
 {
+  "name": "agents-language-specialists",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "javascript-typescript",
       "version": "1.2.2",
-      "path": "plugins/javascript-typescript"
+      "source": "plugins/javascript-typescript"
     },
     {
       "name": "python-development",
       "version": "1.2.2",
-      "path": "plugins/python-development"
+      "source": "plugins/python-development"
     },
     {
       "name": "systems-programming",
       "version": "1.2.2",
-      "path": "plugins/systems-programming"
+      "source": "plugins/systems-programming"
     },
     {
       "name": "jvm-languages",
       "version": "1.2.2",
-      "path": "plugins/jvm-languages"
+      "source": "plugins/jvm-languages"
     },
     {
       "name": "functional-programming",
       "version": "1.2.2",
-      "path": "plugins/functional-programming"
+      "source": "plugins/functional-programming"
     },
     {
       "name": "web-scripting",
       "version": "1.2.2",
-      "path": "plugins/web-scripting"
+      "source": "plugins/web-scripting"
     }
   ]
 }
